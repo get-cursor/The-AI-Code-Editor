@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin/
+Disallow: /admin
+Disallow: /api/
+Disallow: /api
+Disallow: /*?s=
+Disallow: /*?search=
+Disallow: /*?q=
+Disallow: /search?
+Disallow: /search/
+Disallow: /?s=
+
+Sitemap: https://Get Curs/sitemap.xml

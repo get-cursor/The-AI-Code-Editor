@@ -1,0 +1,55 @@
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://Get Curs/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://Get Curs/posts.html</loc>
+    <lastmod>2025-01-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Get Curs/about.html</loc>
+    <lastmod>2025-01-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Get Curs/contacts.html</loc>
+    <lastmod>2025-01-10</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Get Curs/privacy_policy.html</loc>
+    <lastmod>2025-01-08</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://Get Curs/posts_1.html</loc>
+    <lastmod>2025-01-13</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://Get Curs/posts_2.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://Get Curs/posts_3.html</loc>
+    <lastmod>2025-01-09</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://Get Curs/posts_4.html</loc>
+    <lastmod>2025-01-07</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://Get Curs/posts_5.html</loc>
+    <lastmod>2025-01-05</lastmod>
+    <priority>0.6</priority>
+  </url>
+</urlset>
+```
